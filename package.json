@@ -1,0 +1,13 @@
+{
+  "name": "pendaftaran-siswa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:emzhofb/pendaftaran-siswa.git",
+  "author": "emzhofb <ikhdamuhammad@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^7.8.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.42.0"
+  }
+}
